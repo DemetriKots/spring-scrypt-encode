@@ -1,9 +1,9 @@
 # SCrypt Encoder for Spring
 This library implements an SCrypt encoder for password hashing in the Spring
-security framework.
+security framework. A more detailed description of the Spring security framework can be found [here](https://docs.spring.io/spring-security/site/docs/4.0.3.RELEASE/reference/htmlsingle/).
 
 ## Building the Library
-This project is built using [Maven](https://www.maven.apache.org). 
+This project is built using [Maven](https://maven.apache.org). 
 
 The project also jitpack.io to get the SCrypt library that it leverages for password hashing.
 
