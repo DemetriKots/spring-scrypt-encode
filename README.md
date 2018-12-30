@@ -5,7 +5,7 @@ security framework. A more detailed description of the Spring security framework
 ## Building the Library
 This project is built using [Maven](https://maven.apache.org). 
 
-The project also jitpack.io to get the SCrypt library that it leverages for password hashing.
+The project also [jitpack.io](https://jitpack.io) to get the SCrypt library that it leverages for password hashing.
 
 ### Compiling
 To compile the code run `mvn compile` from the project root.
